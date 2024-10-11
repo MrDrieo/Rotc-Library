@@ -14,7 +14,7 @@ This is a Laravel-based project for managing an ROTC library system. It allows s
 
 1. Clone the repository(Copy&paste to cmd):
    ```bash
-   git clone https://github.com/yourusername/ROTCLibraryApp.git
+   git clone https://github.com/MrDrieo/ROTCLibraryApp.git
    cd ROTCLibraryApp
 
 2. Install the dependencies:
