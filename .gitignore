@@ -11,7 +11,7 @@
 /storage/*.key
 
 # Laravel environment
-.env
+/.env
 .env.example
 .env.backup
 .env.production
